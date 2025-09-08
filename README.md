@@ -1,6 +1,6 @@
 # Excel-Interactive-Dashboard-Kids-Screen-Time
 
-## 🎯 Project Objective
+## Project Objective
 The goal of this project is to analyze **average screen time among kids under 18 years** and study its **impact on health, lifestyle, and education balance.  
 An interactive Excel dashboard highlights age-wise, gender-wise, and urban–rural patterns to understand how screen exposure relates to health risks.
 
