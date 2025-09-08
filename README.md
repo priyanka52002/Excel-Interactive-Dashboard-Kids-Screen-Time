@@ -1,12 +1,9 @@
 # Excel-Interactive-Dashboard-Kids-Screen-Time
 
-# 📊 Kids Screen Time Report (Excel Dashboard)
-
 ## 🎯 Project Objective
 The goal of this project is to analyze **average screen time among kids under 18 years** and study its **impact on health, lifestyle, and education balance**.  
 An interactive Excel dashboard highlights age-wise, gender-wise, and urban–rural patterns to understand how screen exposure relates to health risks.
 
----
 
 ## ❓ Key Questions
 - What is the **average screen time** across different age groups and genders?  
@@ -15,7 +12,6 @@ An interactive Excel dashboard highlights age-wise, gender-wise, and urban–rur
 - What are the most common **health impacts** (eye strain, anxiety, obesity risk) of excessive screen time?  
 - How much of screen time is spent on **education vs recreation**?  
 
----
 
 ## 📊 Key Performance Indicators (KPIs)
 - **Average Screen Time (hrs/day)** by device, gender, and age group  
@@ -24,7 +20,6 @@ An interactive Excel dashboard highlights age-wise, gender-wise, and urban–rur
 - **Edu-to-Recreational Ratio**  
 - **Urban vs Rural Exceedance Comparison**  
 
----
 
 ## 🔄 Process
 1. **Data Preparation** – Cleaned and organized data with age groups, gender, device, rural/urban, and health impacts.  
@@ -37,8 +32,6 @@ An interactive Excel dashboard highlights age-wise, gender-wise, and urban–rur
    - Column chart (Urban vs Rural exceeded limits)  
 4. **Dashboard** – Combined visuals into an interactive Excel dashboard.  
 
----
-
 ## 🔍 Project Insights
 - **Average screen time is 4–5 hours/day**, which exceeds the healthy benchmark.  
 - **Smartphones** are the leading contributor to screen exposure, followed by laptops.  
@@ -46,7 +39,6 @@ An interactive Excel dashboard highlights age-wise, gender-wise, and urban–rur
 - **Health impacts**: Eye strain and anxiety are the most reported issues, with obesity risk increasing in higher age groups.  
 - **Educational vs Recreational ratio** is skewed towards recreation, showing less academic use.  
 
----
 
 ## 🛠️ Tools Used
 - **Microsoft Excel**  
@@ -55,7 +47,6 @@ An interactive Excel dashboard highlights age-wise, gender-wise, and urban–rur
   - Pivot Charts (Bar, Pie, Radar, Stacked)  
   - Dashboard Design  
 
----
+## Dashboard 
 
-## 📂 Repository Structure
 
