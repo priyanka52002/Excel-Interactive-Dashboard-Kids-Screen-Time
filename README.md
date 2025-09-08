@@ -10,15 +10,9 @@ An interactive Excel dashboard highlights age-wise, gender-wise, and urban–rur
 - Which **devices (Smartphone, Laptop, Tablet, TV)** are most associated with screen exposure?  
 - How does **urban vs rural location** influence screen time exceedance?  
 - What are the most common **health impacts** (eye strain, anxiety, obesity risk) of excessive screen time?  
-- How much of screen time is spent on **education vs recreation**?  
+- How much of screen time is spent on **education vs recreation**?
 
-
-## 📊 Key Performance Indicators (KPIs)
-- **Average Screen Time (hrs/day)** by device, gender, and age group  
-- **% of Kids Exceeding Recommended Limit** (2 hours/day benchmark)  
-- **Health Impact Frequency** (eye strain, anxiety, obesity risk, etc.)  
-- **Edu-to-Recreational Ratio**  
-- **Urban vs Rural Exceedance Comparison**  
+- Dashboard <a href= "https://github.com/priyanka52002/Excel-Interactive-Dashboard-Kids-Screen-Time/blob/main/kids_Screen_time_Excel.xlsx">View Dashboard </a>
 
 
 ## 🔄 Process
@@ -48,5 +42,7 @@ An interactive Excel dashboard highlights age-wise, gender-wise, and urban–rur
   - Dashboard Design  
 
 ## Dashboard 
+<img width="1864" height="642" alt="Kids_Screen_Time_Report" src="https://github.com/user-attachments/assets/2fd143c0-71e0-4d6f-85be-e563f95eeaae" />
+
 
 
