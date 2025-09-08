@@ -4,6 +4,9 @@
 The goal of this project is to analyze average screen time among kids under 18 years and study its impact on health, lifestyle, and education balance.  
 An interactive Excel dashboard highlights age-wise, gender-wise, and urban–rural patterns to understand how screen exposure relates to health risks.
 
+## Dataset Used 
+- <a href= "https://github.com/priyanka52002/Excel-Interactive-Dashboard-Kids-Screen-Time/blob/main/kids_Screen_time_Excel.xlsx">Dataset</a>
+
 
 ## Key Questions
 - What is the **average screen time** across different age groups and genders?  
@@ -11,8 +14,6 @@ An interactive Excel dashboard highlights age-wise, gender-wise, and urban–rur
 - How does **urban vs rural location** influence screen time exceedance?  
 - What are the most common **health impacts** (eye strain, anxiety, obesity risk) of excessive screen time?  
 - How much of screen time is spent on **education vs recreation?
-
-- Dashboard Interaction <a href= "https://github.com/priyanka52002/Excel-Interactive-Dashboard-Kids-Screen-Time/blob/main/kids_Screen_time_Excel.xlsx">View Dashboard </a>
 
 
 ## Process
@@ -24,7 +25,12 @@ An interactive Excel dashboard highlights age-wise, gender-wise, and urban–rur
    - Pie chart (Health impacts by device)  
    - Radar chart (Edu-to-recreational ratio)  
    - Column chart (Urban vs Rural exceeded limits)  
-4. **Dashboard** – Combined visuals into an interactive Excel dashboard.  
+4. **Dashboard** – Combined visuals into an interactive Excel dashboard.
+
+   
+## Dashboard 
+<img width="1864" height="642" alt="Kids_Screen_Time_Report" src="https://github.com/user-attachments/assets/2fd143c0-71e0-4d6f-85be-e563f95eeaae" />
+
 
 ##  Project Insights
 - **Average screen time is 4–5 hours/day**, which exceeds the healthy benchmark.  
@@ -39,10 +45,14 @@ An interactive Excel dashboard highlights age-wise, gender-wise, and urban–rur
   - Pivot Tables  
   - Slicers & Filters  
   - Pivot Charts (Bar, Pie, Radar, Stacked)  
-  - Dashboard Design  
+  - Dashboard Design
+ 
+    
+## Final Conclusion
+The project reveals that **kids’ average screen time is higher than recommended**, leading to health risks such as eye strain, anxiety, and obesity.  
+The analysis emphasizes the need for **balanced screen use** with more focus on education and healthier digital habits.
 
-## Dashboard 
-<img width="1864" height="642" alt="Kids_Screen_Time_Report" src="https://github.com/user-attachments/assets/2fd143c0-71e0-4d6f-85be-e563f95eeaae" />
+
 
 
 
