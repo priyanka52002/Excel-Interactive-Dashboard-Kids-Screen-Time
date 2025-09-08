@@ -12,7 +12,7 @@ An interactive Excel dashboard highlights age-wise, gender-wise, and urban–rur
 - What are the most common **health impacts** (eye strain, anxiety, obesity risk) of excessive screen time?  
 - How much of screen time is spent on **education vs recreation**?
 
-- Dashboard <a href= "https://github.com/priyanka52002/Excel-Interactive-Dashboard-Kids-Screen-Time/blob/main/kids_Screen_time_Excel.xlsx">View Dashboard </a>
+- Dashboard Iteraction <a href= "https://github.com/priyanka52002/Excel-Interactive-Dashboard-Kids-Screen-Time/blob/main/kids_Screen_time_Excel.xlsx">View Dashboard </a>
 
 
 ## 🔄 Process
