@@ -1,52 +1,50 @@
 # Excel-Interactive-Dashboard-Kids-Screen-Time
 
+# 📊 Kids Screen Time Report (Excel Dashboard)
+
 ## 🎯 Project Objective
-The aim of this project is to analyze **screen time behavior among kids under 18 years** and assess its **impact on health, lifestyle, and education balance**.  
-An interactive Excel dashboard was built to uncover device usage patterns, urban–rural differences, and the relationship between screen exposure and health risks.
+The goal of this project is to analyze **average screen time among kids under 18 years** and study its **impact on health, lifestyle, and education balance**.  
+An interactive Excel dashboard highlights age-wise, gender-wise, and urban–rural patterns to understand how screen exposure relates to health risks.
 
 ---
 
 ## ❓ Key Questions
-- What is the **average daily screen time** across different age groups?  
-- Which **devices (Smartphone, Laptop, Tablet, TV)** are most frequently used?  
-- Are there differences in **screen usage between boys and girls**?  
-- How does **urban vs rural location** impact screen time and limit exceedance?  
-- What are the common **health issues** caused by excessive screen time?  
+- What is the **average screen time** across different age groups and genders?  
+- Which **devices (Smartphone, Laptop, Tablet, TV)** are most associated with screen exposure?  
+- How does **urban vs rural location** influence screen time exceedance?  
+- What are the most common **health impacts** (eye strain, anxiety, obesity risk) of excessive screen time?  
 - How much of screen time is spent on **education vs recreation**?  
 
 ---
 
 ## 📊 Key Performance Indicators (KPIs)
-- Average Screen Time (hrs/day) by **device, age group, gender**  
-- % of Kids **Exceeding Recommended Screen Limit** (2 hrs/day benchmark)  
-- Frequency of **Health Impacts** (Eye strain, Anxiety, Obesity Risk, etc.)  
-- **Edu-to-Recreational Ratio** of screen usage  
-- Urban vs Rural **Exceedance Comparison**  
-- Device-specific **Impact Contribution**  
+- **Average Screen Time (hrs/day)** by device, gender, and age group  
+- **% of Kids Exceeding Recommended Limit** (2 hours/day benchmark)  
+- **Health Impact Frequency** (eye strain, anxiety, obesity risk, etc.)  
+- **Edu-to-Recreational Ratio**  
+- **Urban vs Rural Exceedance Comparison**  
 
 ---
 
 ## 🔄 Process
-1. **Data Collection** – Gathered data on age, gender, screen time, device used, urban/rural, health impact, and usage type.  
-2. **Data Cleaning** – Standardized formats, grouped ages, categorized health impacts.  
-3. **Data Analysis** – Built **Pivot Tables, Slicers, Charts** for cross-analysis.  
-4. **Dashboard Creation** – Developed interactive visuals:  
-   - Bar charts (Cross analysis by gender & device)  
+1. **Data Preparation** – Cleaned and organized data with age groups, gender, device, rural/urban, and health impacts.  
+2. **Pivot Analysis** – Built Pivot Tables to calculate averages and ratios.  
+3. **Visualization** – Created charts for cross-analysis:  
+   - Bar chart (Average screen time by gender & device)  
    - Stacked bar chart (Age groups with health impacts)  
-   - Pie chart (Health impact by device)  
+   - Pie chart (Health impacts by device)  
    - Radar chart (Edu-to-recreational ratio)  
    - Column chart (Urban vs Rural exceeded limits)  
-5. **Insights & Reporting** – Highlighted key findings and risks.  
+4. **Dashboard** – Combined visuals into an interactive Excel dashboard.  
 
 ---
 
 ## 🔍 Project Insights
-- **Smartphones** contribute the most to screen time, followed by laptops.  
-- **Average screen time is 4–5 hours/day**, exceeding the healthy limit.  
-- **Health issues**: Eye strain and anxiety are the most common impacts.  
-- **Urban kids** exceed screen limits more than rural kids (5851 vs 2441 cases).  
-- **Teenagers (14–18 years)** are most at risk of multiple health problems.  
-- **Educational vs Recreational use ratio** is skewed, with more time spent on entertainment.  
+- **Average screen time is 4–5 hours/day**, which exceeds the healthy benchmark.  
+- **Smartphones** are the leading contributor to screen exposure, followed by laptops.  
+- **Urban kids** show significantly higher screen time exceedance than rural kids.  
+- **Health impacts**: Eye strain and anxiety are the most reported issues, with obesity risk increasing in higher age groups.  
+- **Educational vs Recreational ratio** is skewed towards recreation, showing less academic use.  
 
 ---
 
@@ -55,4 +53,9 @@ An interactive Excel dashboard was built to uncover device usage patterns, urban
   - Pivot Tables  
   - Slicers & Filters  
   - Pivot Charts (Bar, Pie, Radar, Stacked)  
-  - Interactive Dashboard Design  
+  - Dashboard Design  
+
+---
+
+## 📂 Repository Structure
+
